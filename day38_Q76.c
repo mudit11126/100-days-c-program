@@ -11,7 +11,6 @@ int main() {
     printf("Enter number of columns: ");
     scanf("%d", &c);
 
-    // A symmetric matrix must be square (rows == columns)
     if (r != c) {
         printf("The matrix is not symmetric (not a square matrix).\n");
         return 0;

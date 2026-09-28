@@ -1,5 +1,4 @@
 //Q97: Print the initials of a name.
-// Q97: Print the initials of a name.
 #include <stdio.h>
 
 int main() {
